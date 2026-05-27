@@ -1,4 +1,4 @@
-# Hi there 👋
+# Olá pessoal 👋
 
 Eu me chamo André, tenho 18 anos e sou natural de Osasco. Concluí recentemente o ensino médio no SESI/SENAI, onde também me formei no curso técnico de Desenvolvimento de Sistemas. Sou um jovem profissional completamente apaixonado e curioso por tecnologia, sempre buscando aprender e me superar a cada linha de código.
 
