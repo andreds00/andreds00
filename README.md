@@ -26,7 +26,8 @@ Eu me chamo André, tenho 18 anos e sou natural de Osasco. Concluí recentemente
 <br/>
 
 ### Banco de Dados e Ferramentas
-[![mySql]<img align="left" alt="MySQL" title="MySQL" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
+<img align="left" alt="MySQL" title="MySQL" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
+<div><div/>
 
 ---
 
