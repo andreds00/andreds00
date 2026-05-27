@@ -51,5 +51,6 @@ Eu me chamo André, tenho 18 anos e sou natural de Osasco. Concluí recentemente
 ## 🌐 Redes Sociais
 
 [![LinkedIn](https://shields.io)](www.linkedin.com/in/andredoriasantos)
+<a href="www.linkedin.com/in/andredoriasantos" target="_blank"><img src="https://shields.io" alt="LinkedIn 🎯" /></a>
 
 > "O único modo de fazer um excelente trabalho é amar o que você faz." – Steve Jobs
