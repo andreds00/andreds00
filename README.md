@@ -6,10 +6,10 @@ Eu me chamo André, tenho 18 anos e sou natural de Osasco. Concluí recentemente
 
 ## 🚀 Sobre Mim
 
-* 💻 **Foco Atual:** Desenvolvimento Front-end de alto impacto.
-* 🎓 **Formação:** Técnico em Desenvolvimento de Sistemas (SESI/SENAI).
+* 💻 **Foco Atual:** Desenvolvimento Backend.
+* 🎓 **Formação:** Técnico em Desenvolvimento de Sistemas (SESI/SENAI) e Graduando Análise e Desenvolvimento de Sistemas (FATEC)
 * 📍 **Localização:** Osasco, São Paulo - Brasil.
-* 🎯 **Objetivo:** Criar interfaces modernas, limpas e focadas na experiência do usuário.
+* 🎯 **Objetivo:** Atuar como Desenvolvedor Backend, focando na criação de APIs RESTful robustas, escaláveis e seguras, além da modelagem eficiente de bancos de dados relacionais e otimização de regras de negócio.
 
 ---
 
@@ -21,6 +21,7 @@ Eu me chamo André, tenho 18 anos e sou natural de Osasco. Concluí recentemente
 <img align="left" alt="JavaScript" title="JavaScript" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" />
 <img align="left" alt="TypeScript" title="TypeScript" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
 <img align="left" alt="React" title="React" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
+<img align="left" alt="Node.js" title="Node.js" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" />
 <img align="left" alt="Git" title="Git" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
 <img align="left" alt="Python" title="Python" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
 <br/>
@@ -30,6 +31,7 @@ Eu me chamo André, tenho 18 anos e sou natural de Osasco. Concluí recentemente
 <img align="left" alt="MySQL" title="MySQL" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
 <img align="left" alt="MySQL" title="MySQL" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mariadb/mariadb-original-wordmark.svg" />
 </div>
+<br/>
 
 
 
