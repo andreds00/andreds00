@@ -41,7 +41,7 @@ Eu me chamo André, tenho 18 anos e sou natural de Osasco. Concluí recentemente
 
 <p align="left">
     <a href="https://github.com/andreds00?tab=repositories&sort=stargazers">
-        <img alt="Total de estrelas" title="Total de estrelas GitHub" src="https://custom-icon-badges.demolab.com/github/stars/andreds00?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"/>
+        <img alt="Projetos" title="Projetos" src="https://custom-icon-badges.demolab.com/github/stars/andreds00?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"/>
     </a>
    
 </p>
